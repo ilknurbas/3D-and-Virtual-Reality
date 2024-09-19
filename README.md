@@ -1,5 +1,5 @@
 # 3D-and-Virtual-Reality
-My solutions to the homework assignments of Tampere University's COMP.SGN.320 3D and Virtual Reality course in 2023-2024. 
+My solutions to the lab assignments of Tampere University's COMP.SGN.320 3D and Virtual Reality course in 2023-2024. 
 
 `lw1:` Implementation of ICP and registering point cloud 
 
