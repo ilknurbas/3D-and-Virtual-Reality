@@ -1,5 +1,5 @@
-# 3D-and-Virtual-Reality
-This repository outlines various tasks related to 3D and Virtual Reality, focusing on algorithms and techniques for **point cloud registration, camera calibration, 3D data fusion, light field processing, and dense disparity estimation** through stereo matching. *Note that some sections of the codes are based on templates provided.*
+# Point Clouds to VR
+This repository outlines various tasks focusing on algorithms and techniques for **point cloud registration, camera calibration, 3D data fusion, light field processing, and dense disparity estimation** through stereo matching. *Note that some sections of the codes are based on templates provided.*
 
 **`lw1: Implementation of ICP and registering point cloud`**
 
